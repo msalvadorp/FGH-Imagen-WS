@@ -1,0 +1,11 @@
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\bin\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.deps.json
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\bin\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.runtimeconfig.json
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\bin\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.runtimeconfig.dev.json
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\bin\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.dll
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\obj\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.csprojAssemblyReference.cache
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\obj\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.csproj.CoreCompileInputs.cache
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\obj\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.AssemblyInfoInputs.cache
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\obj\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.AssemblyInfo.cs
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\bin\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.pdb
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\obj\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.dll
+C:\Miguel\GitHub\Belcorp.ApiFGH\Belcorp.ApiFGH.ADApi\obj\Debug\netcoreapp2.0\Belcorp.ApiFGH.ADApi.pdb
